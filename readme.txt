@@ -7,3 +7,4 @@ add a line in master
 =======
 modified by feature1
 >>>>>>> feature1
+try no--ff merge
